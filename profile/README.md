@@ -1,4 +1,5 @@
 ## Service Link
+[Cu&A Service Link](https://couni.store/)
 
 ## Introduce
 
@@ -9,6 +10,7 @@
 
 
 ## Member
-| 박민형 | 김수곤 | 오윤정 | 유희진 |
+| Park Min Hyeong | Kim Su Gon | Oh Yun Jeong | Yu Hee Jin |
 | ---| --- | --- | --- |
-| Frontend | 기획, Backend | 기획, Design | Backend, DevOps |
+| [park-minhyeong](https://github.com/park-minhyeong) | [rocknroll17](https://github.com/rocknroll17) | [dhdbswjd124](dhdbswjd124@gmail.com) | [yu-heejin](https://github.com/yu-heejin) |
+| Frontend | Planning, Backend | Planning, Design | Backend, DevOps |
