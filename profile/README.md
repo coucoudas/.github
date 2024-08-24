@@ -11,9 +11,14 @@
 
 [Demo Link](https://couni.store/)
 
+## Tech Stack
+
+
+
 ## System Architecture
 
-<img width="815" alt="스크린샷 2024-08-24 오후 9 11 07" src="https://github.com/user-attachments/assets/39c57cc2-d523-4361-8778-00b97d0d6069">
+<img width="674" alt="스크린샷 2024-08-25 오전 2 02 41" src="https://github.com/user-attachments/assets/7d80d8fc-a565-470c-895e-b743bbb0e2bd">
+
 
 ## Future Roadmap
 
