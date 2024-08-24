@@ -21,4 +21,4 @@
 | Park Min Hyeong | Kim Su Gon | Oh Yun Jeong | Yu Hee Jin |
 | ---| --- | --- | --- |
 | [park-minhyeong](https://github.com/park-minhyeong) | [rocknroll17](https://github.com/rocknroll17) | [dhdbswjd124](dhdbswjd124@gmail.com) | [yu-heejin](https://github.com/yu-heejin) |
-| Frontend | Planning, Backend | Planning, Design | Backend, DevOps |
+| Team Leader, Frontend | Planning, Backend | Planning, Design | Backend, DevOps |
