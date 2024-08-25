@@ -1,4 +1,4 @@
-# 쿠앤아이(Cou&A) : 쿠팡 리뷰 플랫폼
+# 쿠앤에이(Cu&A) : 쿠팡 리뷰 플랫폼
 
 ## Service Link
 [Cu&A Service Link](https://couni.store/)
